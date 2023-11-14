@@ -1,7 +1,7 @@
 A Curated Collection of WebDev Tools for Your Next Project
 ----------------------------------------------------------
+![Untitled-1](https://github.com/DavidHubber/Web-Development-Resources/assets/51449258/01426bd8-459c-4dff-8808-baae91da0078)
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*zKQ0hMXP9sJgUxgQLoVITg.png)
 
 Enhance Your Development Workflow with These Handpicked Resources
 =================================================================
